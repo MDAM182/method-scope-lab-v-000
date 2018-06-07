@@ -1,3 +1,3 @@
-def catch_phrase(phrase = "Kowabunga")
+def catch_phrase(phrase)
   puts phrase
 end
